@@ -64,9 +64,6 @@ UDP AND TCP Traceroute
 httprint
 ![WhatsApp Image 2025-03-15 at 12 17 54_6de511c3](https://github.com/user-attachments/assets/97a3258e-6e53-4321-af54-e1f369eea2bb)
 
-RESULT:
-The information gathering techniques tools/procedure were identified successfully
-
 
 ## RESULT:
 The information gathering techniques tools/procedure were  identified successfully
